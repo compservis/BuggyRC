@@ -4,3 +4,6 @@ BuggyRC is a remote controlled buggy car featuring GPS, gyroscope+accelerometer,
 
 ![Transmitter](images/2.png "Transmitter")
 
+Video:
+https://youtu.be/JAMrrkWYFus
+
